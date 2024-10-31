@@ -6,3 +6,5 @@ scikit-learn
 seaborn
 jupysql
 duckdb-engine
+pip
+ipykernel
