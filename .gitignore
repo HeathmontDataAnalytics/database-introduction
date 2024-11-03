@@ -1,5 +1,5 @@
 notebooks/data
 notebooks/cifar_net.pth
 .ipynb_checkpoints/
-data/school.db
-data/*.db.wal
+*.ddb
+*.ddb.wal
