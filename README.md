@@ -30,3 +30,12 @@ The exercises are split into three notebooks:
   - Create foreign key to primary key relationships between tables
   - Write queries that gather data from multiple tables
   - Use a variety of join types for different scenarios
+
+## Running Tests
+
+Install the dependencies from `requirements.txt` and execute the test suite using `pytest`:
+
+```bash
+pip install -r requirements.txt
+pytest
+```

@@ -8,3 +8,4 @@ jupysql
 duckdb-engine
 pip
 ipykernel
+pytest
