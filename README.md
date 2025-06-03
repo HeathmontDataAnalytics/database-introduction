@@ -1,9 +1,9 @@
 # Introduction to Databases and SQL #
 
 This repository uses Python and DuckDB to introduce the basic practical skills of using SQL to interact with databases.
-We do this using a technology called "Jupyter Notebooks" - a different way of running Python code (and other languages).
-Jupyter notebooks are commonly used in data science as they keep the contents of memory in between executions  
-(ie - your variables last a bit longer). You can identify a Jupyter notebooks by its file extension: "*.ipynb".
+We do this using a technology called the "Jupyter Notebook" — a different way of running Python code (and other languages).
+A Jupyter notebook is commonly used in data science because it keeps the contents of memory between executions
+(ie - your variables last a bit longer). You can identify a Jupyter notebook by its file extension: "*.ipynb".
 Notebooks have cells: we are using two different types of cells:
 
 - Markdown cells: which provide explanation. Markdown is a markup language that allows for easy addition of formatting.
@@ -25,7 +25,7 @@ The exercises are split into three notebooks:
   - Run queries to select only rows that meet a given condition
   - Aggregate data to calculate totals, averages and counts: including using conditions
 
-- `3_joining_tables` Teaching you to use SQL to:
+- `3_joining_tables.ipynb` Teaching you to use SQL to:
   
   - Create foreign key to primary key relationships between tables
   - Write queries that gather data from multiple tables
